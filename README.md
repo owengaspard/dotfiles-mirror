@@ -16,7 +16,6 @@ cp -r <directory> ~/.config/
 ### Derek Taylor (DT) <br>
 DT has been a huge inspiration for me to  start using Linux as a daily driver on my main  production machine and has made me endorse more FOSS software. <br>
 https://gitlab.com/dwt1/ <br>
-<br>
 ### The EndeavourOS Team <br>
 When I used EndeavourOS for a little while, I used their stock rofi config.  I have included it, but it may not work for your system.  I have switched to dmenu, and I think it works fine for me. <br>
 https://endeavouros.org
