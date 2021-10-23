@@ -2,8 +2,6 @@
 
 My dotfiles for various programs I use in Linux.  Some are based off others' work.  Proper credit is given if that is the case.
 
-## THIS PROJECT IS UNFINISHED
-
 ## What are dotfiles?
 Dotfiles get the name from the hidden config folder.  In *NIX operating systems, directories and files can be hidden by beginning the name with a period (.).  They are the configuration files for certain programs like tiling window managers, terminals, terminal programs, etc.
 
@@ -18,6 +16,7 @@ cp -r <directory> ~/.config/
 Derek Taylor (DT)
     - DT has been a huge inspiration for me to  start using Linux as a daily driver on my main  production machine and has made me endorse more FOSS software.
     - https://gitlab.com/dwt1/
-
+The EndeavourOS Team
+    - When I used EndeavourOS for a little while, I used their stock rofi config.  I have included it, but it may not work for your system.  I have switched to dmenu, and I think it works fine for me.
 ## License
 Everything in this repository is licensed under the MIT License. This allows you to quite literally whatever you want with it. The only requirement with the MIT License is that the license and copyright notice must be provided with the software.
