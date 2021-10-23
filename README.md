@@ -13,10 +13,11 @@ cp -r <directory> ~/.config/
 ```
 
 ## Credit
-Derek Taylor (DT)
-    - DT has been a huge inspiration for me to  start using Linux as a daily driver on my main  production machine and has made me endorse more FOSS software.
-    - https://gitlab.com/dwt1/
-The EndeavourOS Team
-    - When I used EndeavourOS for a little while, I used their stock rofi config.  I have included it, but it may not work for your system.  I have switched to dmenu, and I think it works fine for me.
+Derek Taylor (DT) <br>
+    - DT has been a huge inspiration for me to  start using Linux as a daily driver on my main  production machine and has made me endorse more FOSS software. <br>
+    - https://gitlab.com/dwt1/ <br>
+The EndeavourOS Team <br>
+    - When I used EndeavourOS for a little while, I used their stock rofi config.  I have included it, but it may not work for your system.  I have switched to dmenu, and I think it works fine for me. <br>
+    - https://endeavouros.org
 ## License
 Everything in this repository is licensed under the MIT License. This allows you to quite literally whatever you want with it. The only requirement with the MIT License is that the license and copyright notice must be provided with the software.
